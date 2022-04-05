@@ -51,5 +51,5 @@ public class Sketch extends PApplet {
   line(220, 264, 270, 264);
   }
   
-  // define other methods down here.
+  // define other methods down here. 
 }
